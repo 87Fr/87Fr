@@ -1,0 +1,3 @@
+-printf("Hello world!");
+-I come from a small town in China.
+-Now I'm a junior high school student.
